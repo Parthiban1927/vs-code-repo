@@ -1,4 +1,5 @@
 n = 11
+print("hi the output is")
 count = 0
 flag = 0
 while flag == 0:
